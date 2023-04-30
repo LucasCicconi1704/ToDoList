@@ -32,6 +32,6 @@ Este proyecto todo list lo realice para poner en practica mis conocimientos con 
 
 ---
 
-## [ir a la pagina]() 👈
+## [ir a la pagina](https://lucascicconi1704.github.io/ToDoList/) 👈
 
 
